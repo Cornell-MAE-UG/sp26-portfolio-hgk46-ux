@@ -6,9 +6,11 @@ image: /assets/images/Nutcracker.jpg
 ---
 
 1. Problem Statement
+
 This proof seeks to develop a simple design for a nutcracker in which grip strength by the average person can feasibly crack a macadamia nut. We will do this by defining the design's dimensions and developing a schematic of the device.
 
-2. Constraints and input parameters
+3. Constraints and input parameters
+
 i. Generalized macadamia nut diameter
 A common size for a macadamia nut is approximately 25 mm, or about 1 in.
 
@@ -19,6 +21,9 @@ iii. Typical grip strength for a person
 For men, this value is around 40kg, and for women, it is around 30 kg. We will generalize this value to 35kg, or about 345N (Leyk et al.)
 
 3. Approach
+
+Nutcracker Diagram
+
 ![Diagram](/assets/images/Nutcracker.jpg)
 
 We want to solve for Lgrip, the length of the device, assuming the grip is at the outermost edge of the nutcracker. This will allow us to complete the scope of the design.
@@ -33,7 +38,9 @@ We have:
 
 $$L_{grip} = 6.41 \times 12.5 \text{ mm} = 80 \text{ mm}$$
 
-Solving for Fgrip, we get 6.41*12.5= 80 mm
+Solving for Fgrip, we get 
+
+$$6.41*12.5= 80 mm$$
 
 Thus, the length of the nutcracker device is 80mm.
 
