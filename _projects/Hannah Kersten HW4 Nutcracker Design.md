@@ -19,7 +19,7 @@ iii. Typical grip strength for a person
 For men, this value is around 40kg, and for women, it is around 30 kg. We will generalize this value to 35kg, or about 345N (Leyk et al.)
 
 3. Approach
-![Diagram] (/sp26-portfolio-hgk46-ux/assets/images/Nutcracker.jpg)
+![Diagram](/assets/images/Nutcracker.jpg)
 
 We want to solve for Lgrip, the length of the device, assuming the grip is at the outermost edge of the nutcracker. This will allow us to complete the scope of the design.
 
