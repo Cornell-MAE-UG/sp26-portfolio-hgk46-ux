@@ -45,9 +45,11 @@ $$6.41*12.5= 80 mm$$
 Thus, the length of the nutcracker device is 80mm.
 
 4. Discussion on Usability
+
 The nutcracker is usable for most individuals if using their maximum girp strength. The grip is placed at the end of the end of the nutcracker and the nut is able to be cracker in most cases of the adults using the device. The length of the device is just over 3 inches, making it relatively small. This may be convenient for portability of the device.
 
 References 
+
 Grip Strength Measurement Obtained from (https://doi.org/10.1007/s00421-006-0351-1)
 Macadamia Nut cracking force obtained from (https://doi.org/10.1371/journal.pone.0041044)
 
