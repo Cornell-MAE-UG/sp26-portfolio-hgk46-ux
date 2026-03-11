@@ -23,7 +23,8 @@ For men, this value is around 40kg, and for women, it is around 30 kg. We will g
 
 We want to solve for Lgrip, the length of the device, assuming the grip is at the outermost edge of the nutcracker. This will allow us to complete the scope of the design.
 
-i. Moment balance about point A of the Design \ 
+i. Moment balance about point A of the Design
+
 $$\sum M = -F_{grip}(L_{grip}) + F_m(L_m) = 0$$
 Let Lm (distance from end of nutcracker to middle of macadamia nut)= 12.5 mm, which is the radius of a macadamia nut.
 
