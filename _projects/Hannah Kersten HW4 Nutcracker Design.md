@@ -28,7 +28,9 @@ i. Moment balance about point A of the Design
 Let Lm (distance from end of nutcracker to middle of macadamia nut)= 12.5 mm, which is the radius of a macadamia nut.
 
 We have:
+\[
 (Lgrip/Lm)=(Fm/Fgrip)=2210N/345N=6.41
+\]
 Solving for Fgrip, we get 6.41*12.5= 80 mm
 Thus, the length of the nutcracker device is 80mm.
 
