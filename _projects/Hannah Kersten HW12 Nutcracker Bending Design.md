@@ -35,8 +35,31 @@ _Cost_: $119.99 USD
 
 <img src="/assets/images/ActuatorNutFBD.jpg" width="60%">
 
-3, 4. Deflection analysis
+3. (and 4, 5) Deflection Analysis
 <img src="/assets/images/Deflection.jpg" width="60%">
+
+Based on the calculations, the bottom lever governs our design choice. Let's pick a strong, commercialized material for design in the lever arms, such as industrial steel with an elastic modulus of 200 GPa. Using this materal...
+
+6. The moment of Inertia of the cross sections must be 442 kg mm^4. Let's use circular cross sections, so that the radius must be 4.87 mm.
+
+7. **Design choice 2: Level Material and Dimensions**
+
+_Material_: Industrial steel, E=200 GPa
+
+_Cross-sectional shape_: Circular.
+
+_Diameter_: 9.74 mm.
+
+_Total volume of Required_: 0.023848 cubic meters
+
+_Cost_: Using density of steel= 7850 kg/m^3, the mass is 187.21 kg. This would cost about $0.75 per kg, so $140.40 (https://vmtcnc.com/mild-steel-price-per-kg).
+
+## **Final Design**
+
+
+
+
+
 
 
 
