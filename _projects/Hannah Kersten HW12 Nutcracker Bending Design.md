@@ -5,7 +5,6 @@ date: 2026-05-03
 image: /assets/images/Deflection.jpg
 image: /assets/images/ActuatorNutFBD.jpg
 image: /assets/images/Finaldesign.jpg
-
 ---
 ## **Find**
 Our goal is to design an actuator-integrated nutcracker with elastic deflection mitigated to less than 2% of the total device length. 
