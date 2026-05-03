@@ -9,8 +9,8 @@ permalink: /projects/
     {% for project in site.projects %}
       <div class="gallery-item">
         <a href="{{ project.url | relative_url }}">
-          <img src="{{ project.image | relative_url }}" alt="{{ HannahKersten-HW12 Nutcracker-Bending-Design.md }}" />
-          <p>{{ Hannah Kersten HW12 Nutcracker Bending Design.md }}</p>
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+          <p>{{ project.title }}</p>
         </a>
       </div>
     {% endfor %}
