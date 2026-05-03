@@ -36,6 +36,8 @@ _Cost_: $119.99 USD
 <img src="/assets/images/ActuatorNutFBD.jpg" width="60%">
 
 3, 4. Deflection analysis
+<img src="/assets/images/Deflection.jpg" width="60%">
+
 
 
 
