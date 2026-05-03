@@ -38,7 +38,7 @@ _Cost_: $119.99 USD
 
 2. FBD/Schematic
 
-![FBD/Schematic]({{ site.baseurl }}/assets/images/ActuatorNutFBD.jpg)
+![FBD/Schematic](https://cornell-mae-ug.github.io/sp26-portfolio-hgk46-ux/assets/images/ActuatorNutFBD.jpg)
 
 3. (and 4, 5) Deflection Analysis
 
