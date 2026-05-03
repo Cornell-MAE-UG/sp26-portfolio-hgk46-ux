@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hannah Kersten - Projects Portfolio
-permalink: /projects/
+permalink: /projects/Hannah Kersten HW12 Nutcracker Bending Design.md
 ---
 
 <div class="gallery-container">
