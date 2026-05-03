@@ -33,7 +33,9 @@ _Cost_: $119.99 USD
 
 2. FBD/Schematic
 
-![Diagram](/assets/images/ActuatorNutFBD.jpg)
+<img src="/assets/images/ActuatorNutFBD.jpg" width="60%">
+
+![Diagram](/assets/images/ActuatorNutFBD.jpg) 
 
 
 
