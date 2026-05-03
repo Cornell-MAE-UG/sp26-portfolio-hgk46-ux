@@ -62,7 +62,7 @@ _Cost_: Using density of steel= 7850 kg/m^3, the mass is 187.21 kg. This would c
 
 ## **Final Design**
 
-![Final Design](https://cornell-mae-ug.github.io/sp26-portfolio-hgk46-ux/assets/images/Finaldesign.jpg)
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-hgk46-ux/assets/images/Finaldesign.jpg" alt="Final Design" width="700">
 
 ## **Reflection**
 The total cost of materials for this design is about $260, making it a costly device more equipped for industrial use. The actuator implemented is high-speed, so this also makes the design adequate fo[...]
