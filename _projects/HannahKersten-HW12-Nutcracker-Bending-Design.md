@@ -42,7 +42,7 @@ _Cost_: $119.99 USD
 
 3. (and 4, 5) Deflection Analysis
 
-![Diagram](../assets/images/Deflection.jpg)
+![Deflection Analysis](https://cornell-mae-ug.github.io/sp26-portfolio-hgk46-ux/assets/images/Deflection.jpg)
 
 Based on the calculations, the bottom lever governs our design choice. Let's pick a strong, commercialized material for design in the lever arms, such as industrial steel with an elastic modulus of 20[...]
 
@@ -62,7 +62,7 @@ _Cost_: Using density of steel= 7850 kg/m^3, the mass is 187.21 kg. This would c
 
 ## **Final Design**
 
-![Diagram](../assets/images/Finaldesign.jpg)
+![Final Design](https://cornell-mae-ug.github.io/sp26-portfolio-hgk46-ux/assets/images/Finaldesign.jpg)
 
 ## **Reflection**
 The total cost of materials for this design is about $260, making it a costly device more equipped for industrial use. The actuator implemented is high-speed, so this also makes the design adequate fo[...]
