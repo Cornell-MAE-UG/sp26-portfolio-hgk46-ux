@@ -42,7 +42,7 @@ _Cost_: $119.99 USD
 
 3. (and 4, 5) Deflection Analysis
 
-![Deflection Analysis](https://cornell-mae-ug.github.io/sp26-portfolio-hgk46-ux/assets/images/Deflection.jpg)
+<img src="https://cornell-mae-ug.github.io/sp26-portfolio-hgk46-ux/assets/images/Deflection.jpg" alt="Deflection Analysis" width="700">
 
 Based on the calculations, the bottom lever governs our design choice. Let's pick a strong, commercialized material for design in the lever arms, such as industrial steel with an elastic modulus of 20[...]
 
