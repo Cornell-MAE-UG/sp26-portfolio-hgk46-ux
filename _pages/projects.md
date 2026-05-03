@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hannah Kersten - Projects Portfolio
-permalink: /projects/Hannah Kersten HW12 Nutcracker Bending Design.md
+permalink: /projects/
 ---
 
 <div class="gallery-container">
@@ -9,7 +9,7 @@ permalink: /projects/Hannah Kersten HW12 Nutcracker Bending Design.md
     {% for project in site.projects %}
       <div class="gallery-item">
         <a href="{{ project.url | relative_url }}">
-          <img src="{{ project.image | relative_url }}" alt="{{ Hannah Kersten HW12 Nutcracker Bending Design.md }}" />
+          <img src="{{ project.image | relative_url }}" alt="{{ HannahKersten-HW12 Nutcracker-Bending-Design.md }}" />
           <p>{{ Hannah Kersten HW12 Nutcracker Bending Design.md }}</p>
         </a>
       </div>
