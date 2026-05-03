@@ -41,7 +41,7 @@ _Cost_: $119.99 USD
 
 2. FBD/Schematic
 
-<img src="/assets/images/ActuatorNutFBD.jpg" width="60%">
+![Diagram] ({{ "/assets/images/ActuatorNutFBD.jpg" | relative_url }}){: .inline-image-l}
 
 3. (and 4, 5) Deflection Analysis
 <img src="/assets/images/Deflection.jpg" width="60%">
