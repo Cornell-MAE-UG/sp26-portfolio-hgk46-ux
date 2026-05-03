@@ -41,10 +41,10 @@ _Cost_: $119.99 USD
 
 2. FBD/Schematic
 
-![Diagram] ({{ "/assets/images/ActuatorNutFBD.jpg" | relative_url }}){: .inline-image-l}
+![Diagram](/assets/images/ActuatorNutFBD.jpg)
 
 3. (and 4, 5) Deflection Analysis
-<img src="/assets/images/Deflection.jpg" width="60%">
+![Diagram](/assets/images/Deflection.jpg)
 
 Based on the calculations, the bottom lever governs our design choice. Let's pick a strong, commercialized material for design in the lever arms, such as industrial steel with an elastic modulus of 200 GPa. Using this materal...
 
@@ -64,7 +64,7 @@ _Cost_: Using density of steel= 7850 kg/m^3, the mass is 187.21 kg. This would c
 
 ## **Final Design**
 
-<img src="/assets/images/Finaldesign.jpg" width="60%">
+![Diagram](/assets/images/Finaldesign.jpg)
 
 ## **Reflection**
 The total cost of materials for this design is about $260, making it a costly device more equipped for industrial use. The actuator implemented is high-speed, so this also makes the design adequate for an industrial setting. One limitation of this design is that it can only crack one nut at a time, so it should be adjunct with a device that can place the nut in the nutcracker fast and efficiently for optimal use.
