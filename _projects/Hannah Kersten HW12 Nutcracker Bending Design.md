@@ -56,6 +56,12 @@ _Cost_: Using density of steel= 7850 kg/m^3, the mass is 187.21 kg. This would c
 
 ## **Final Design**
 
+<img src="/assets/images/Finaldesign.jpg" width="60%">
+
+## **Reflection**
+The total cost of materials for this design is about $260, making it a costly device more equipped for industrial use. The actuator implemented is high-speed, so this also makes the design adequate for an industrial setting. One limitation of this design is that it can only crack one nut at a time, so it should be adjunct with a device that can place the nut in the nutcracker fast and efficiently for optimal use.
+
+
 
 
 
