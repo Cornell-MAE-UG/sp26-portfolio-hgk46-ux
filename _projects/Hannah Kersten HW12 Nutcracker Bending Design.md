@@ -31,6 +31,9 @@ _Force_: 150 lbs
 
 _Cost_: $119.99 USD
 
-2. 
+2. FBD/Schematic
+
+![Diagram](/assets/images/ActuatorNutFBD.jpg)
+
 
 
